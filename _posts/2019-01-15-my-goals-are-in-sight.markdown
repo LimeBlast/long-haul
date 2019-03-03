@@ -4,8 +4,9 @@ title: My goals are in sight
 date: '2019-01-15 09:57:56'
 description: This is a post description for meta purposes. This is also the excerpt of the article that shows up on the index/home page. Change this in the post YAML.
 image: 2019/01/IMG_20190115_090111-1-.jpg
-tags:
+categories:
   - personal
+tags:
   - trello
   - magicmirror
   - screenly
