@@ -3,8 +3,9 @@ author: daniel
 layout: post
 title: Project Wildcat... has been delayed
 date: '2018-11-10 21:35:58'
-tags:
+categories:
 - wildcat
+tags:
 - feather-huzzah
 - adafruit-io
 - c

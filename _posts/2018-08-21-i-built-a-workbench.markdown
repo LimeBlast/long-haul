@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: I built a workbench
 date: '2018-08-21 15:03:41'
-tags:
+categories:
 - weekend-woodworker
 ---
 

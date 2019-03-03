@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: What I've learnt about the solar panel over the past week
 date: '2016-06-17 09:47:29'
-tags:
+categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 

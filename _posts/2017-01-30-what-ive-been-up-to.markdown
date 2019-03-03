@@ -3,6 +3,8 @@ author: daniel
 layout: post
 title: What I've been up to
 date: '2017-01-30 21:41:00'
+categories:
+- personal
 ---
 
 It's been a while since my last post, so I wanted to spend a moment talking about what I've been up to.

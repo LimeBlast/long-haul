@@ -3,6 +3,8 @@ author: daniel
 layout: post
 title: What's in the box?
 date: '2016-10-03 16:24:21'
+categories:
+- review
 tags:
 - arduino
 ---

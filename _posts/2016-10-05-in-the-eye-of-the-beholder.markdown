@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: In the eye of the beholder
 date: '2016-10-05 22:19:21'
-tags:
+categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 

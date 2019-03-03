@@ -3,6 +3,8 @@ author: daniel
 layout: post
 title: "... and he said it was good"
 date: '2017-09-30 15:31:15'
+categories:
+- other-builds
 tags:
 - instructables
 - alexa

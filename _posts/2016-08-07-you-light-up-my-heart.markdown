@@ -3,6 +3,8 @@ author: daniel
 layout: post
 title: You light up my heart
 date: '2016-08-07 16:07:46'
+categories:
+- other-builds
 tags:
 - circuit-stickers
 ---

@@ -3,8 +3,9 @@ author: daniel
 layout: post
 title: The Maker's Guide to the Zombie Apocalypse
 date: '2016-05-31 20:03:23'
-tags:
+categories:
 - the-makers-guide-to-the-zombie-apocalypse
+tags:
 - review
 - arduino
 - raspberry-pi

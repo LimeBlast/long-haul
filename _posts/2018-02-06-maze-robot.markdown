@@ -3,6 +3,8 @@ author: daniel
 layout: post
 title: Maze Robot
 date: '2018-02-06 08:54:03'
+categories:
+- other-builds
 tags:
 - arduino
 ---

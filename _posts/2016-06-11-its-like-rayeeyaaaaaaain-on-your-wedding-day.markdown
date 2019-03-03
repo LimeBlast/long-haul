@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: It's like rayeeyaaaaaaain, on your wedding day
 date: '2016-06-11 11:31:48'
-tags:
+categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 

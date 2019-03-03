@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: Danger Danger, High Voltage!
 date: '2016-06-10 17:16:00'
-tags:
+categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 

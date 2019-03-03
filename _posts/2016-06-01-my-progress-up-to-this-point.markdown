@@ -3,6 +3,8 @@ author: daniel
 layout: post
 title: My progress up to this point
 date: '2016-06-01 14:34:59'
+categories:
+- personal
 tags:
 - raspberry-pi
 - the-magpi

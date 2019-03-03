@@ -3,6 +3,8 @@ author: daniel
 layout: post
 title: Slight change in direction
 date: '2017-05-24 18:29:12'
+categories:
+- personal
 tags:
 - instructables
 ---

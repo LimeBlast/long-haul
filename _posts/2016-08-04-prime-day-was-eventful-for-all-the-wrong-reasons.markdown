@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: Prime day was eventful, for all the wrong reasons
 date: '2016-08-04 17:28:14'
-tags:
+categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 

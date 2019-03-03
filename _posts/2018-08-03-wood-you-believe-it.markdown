@@ -3,7 +3,8 @@ author: daniel
 layout: post
 title: Wood you believe it?
 date: '2018-08-03 21:07:48'
-tags:
+description: I’m not sure at what point I’m going to be able to legitimately call myself a woodworker, but I became one step closer to that point today as I’ve finally cut some wood in anger.
+categories:
 - weekend-woodworker
 ---
 

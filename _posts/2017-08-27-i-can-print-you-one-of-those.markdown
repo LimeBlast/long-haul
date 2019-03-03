@@ -3,6 +3,8 @@ author: daniel
 layout: post
 title: I can print you one of those...
 date: '2017-08-27 20:30:00'
+categories:
+- other-builds
 tags:
 - 3d-printer
 ---

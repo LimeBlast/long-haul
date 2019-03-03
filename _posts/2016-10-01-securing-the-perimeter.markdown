@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: Securing the perimeter
 date: '2016-10-01 21:37:00'
-tags:
+categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 

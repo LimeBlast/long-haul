@@ -7,7 +7,7 @@ When it was first started, this blog was set-up as a way to track my progress in
 
 But the deeper purpose of the blog was to learn how to become a _Maker_, specifically, learning the skills and techniques needed to produce physical items in the real world - so while I'm still following that initial goal, I've opened the scope of the blog to include all my maker projects.
 
-This means in addition to [my Zombie Apocalypse posts](/tag/the-makers-guide-to-the-zombie-apocalypse/), you'll also find posts about [my progress with the Weekend Woodworker course](/tag/weekend-woodworker/), [my IoT-based project Wildcat](/tag/wildcat/), and [the silly things I build for Halloween](/tag/spooktober/) - among a whole bunch of other stuff.
+This means in addition to [my Zombie Apocalypse posts](/category/the-makers-guide-to-the-zombie-apocalypse/), you'll also find posts about [my progress with the Weekend Woodworker course](/category/weekend-woodworker/), [my IoT-based project Wildcat](/category/wildcat/), and [the silly things I build for Halloween](/category/spooktober/) - among a whole bunch of other stuff.
 
 * * *
 

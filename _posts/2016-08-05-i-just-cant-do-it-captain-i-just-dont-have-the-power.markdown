@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: I just can't do it Captain, I just don't have the power!
 date: '2016-08-05 17:08:00'
-tags:
+categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 

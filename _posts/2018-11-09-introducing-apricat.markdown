@@ -3,8 +3,9 @@ author: daniel
 layout: post
 title: Introducing Apricat
 date: '2018-11-09 19:34:05'
-tags:
+categories:
 - wildcat
+tags:
 - personal
 ---
 
