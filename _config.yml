@@ -8,7 +8,9 @@ permalink: /:year/:month/:day/:title/
 
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-figure
 paginate: 10
 
 navigation:
@@ -26,3 +28,6 @@ social:
   email: daniel@limeblast.co.uk
 
 google_analytics: "UA-26654246-3"
+
+jekyll-figure:
+  paragraphs: false

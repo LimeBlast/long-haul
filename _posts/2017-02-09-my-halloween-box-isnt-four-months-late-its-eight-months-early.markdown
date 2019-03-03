@@ -10,7 +10,9 @@ tags:
 
 Back in September 2016, inspired a bunch of cool looking projects I found on [Instructables](https://www.instructables.com/), along with access to a laser cutter, and some stock art, I decided to fully embrace this whole maker thing by making a project of my own.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PyFV2pUYBxk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{% figure %}
+  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/PyFV2pUYBxk' frameborder='0' allowfullscreen></iframe></div>
+{% endfigure %}
 
 The art on the front is based on a stock image of [a silhouetted monster with a girl](https://www.dreamstime.com/stock-illustration-monster-beast-silhouette-good-logo-mascot-your-company-image66765725). I figured if I were to swap the polarity of the image, so everything _other_ than the monster was a silhouette, it would look really cool to have the monster glow different colours.
 

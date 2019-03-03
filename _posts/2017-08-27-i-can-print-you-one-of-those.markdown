@@ -41,6 +41,8 @@ I do have plans for some more general purpose functional prints such as a chargi
 
 I also have some plans for ways in which it can help with some electronics projects that I have lined up, including what I hope will be a very cool project which uses lithophanes:
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/C8po-oMscas' frameborder='0' allowfullscreen></iframe></div>
+{% figure %}
+  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/C8po-oMscas' frameborder='0' allowfullscreen></iframe></div>
+{% endfigure %}
 
 Don't get me wrong, I've had my fair share of failed prints, and still need to do some further calibration as one of the axis seems to be around a millimetre off (which seems to make all the difference), but even with the anxiety of the build (and continued anxiety over the fact this is no way a consumer grade machine, and will probably require continued tinkering) I'm really glad I have it, and can't wait to see what fun things it can help me make.

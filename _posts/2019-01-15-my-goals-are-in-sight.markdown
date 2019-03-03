@@ -16,10 +16,9 @@ tags:
 
 The setup is quite simple - at the start of each year I review the goals in the previous year's column, using a sticker to indicate success or otherwise, then create a new column for the upcoming year. Each goal is written using the [SMART methodology](https://en.wikipedia.org/wiki/SMART_criteria), and added as a card, then embellished with an image that represents the goal to serve as visual reminder.
 
-<figure>
-  <img src="{{ '/assets/img/2019/01/trello-goals-1-.png' }}" alt=""> 
-  <figcaption>Fig1. - All my ducks in a row</figcaption>
-</figure>
+{% figure [caption:"All my ducks in a row"] %}
+  ![](/assets/img/2019/01/trello-goals-1-.png) 
+{% endfigure %}
 
 For the most part this has worked pretty well. It informs me where I was in previous years, reminding me what problems I wanted to solve at the time, and lets me appreciate how far I've progressed since.
 
@@ -35,10 +34,9 @@ My first attempt at this was to use the [MagicMirror²](https://magicmirror.buil
 
 Not content to let something as silly as that stop me, I reached into my [LEAN methodology](https://leankit.com/learn/lean/lean-methodology/) toolkit, grabbed a Raspberry Pi and an old laptop screen, and set about creating a [Minimum Viable Product (MVP)](https://en.wikipedia.org/wiki/Minimum_viable_product) - that is, just enough to prove the concept without using too many resources. In this instance, that meant installing the software and exploring the options provided within.
 
-<figure>
-  <img src="{{ '/assets/img/2019/01/mvp.png' }}" alt=""> 
-  <figcaption>Illustration by <a href="http://blog.crisp.se/author/henrikkniberg">Henrik Kniberg</a>.</figcaption>
-</figure>
+{% figure [caption:"Illustration by [Henrik Kniberg](http://blog.crisp.se/author/henrikkniberg)"] %}
+  ![](/assets/img/2019/01/mvp.png) 
+{% endfigure %}
 
 Now, the MagicMirror² platform seems very well designed, with a lot of support for pulling data from a range of sources, but it wasn't quite what I wanted for this project. It had the benefit of being able to read directly from my Trello list, but each goal was nothing more than an entry on a small bulleted list, lost in among a whole bunch of other information.
 
@@ -54,9 +52,9 @@ I reviewed a couple of choices, including a [Fullscreen Background Image Slidesh
 
 I already had the images and wording for the goals, so it took no more than about an hour to update my own content into the template, and make some small changes to the design and functionality, and before I knew it, I had a sideshow hosted on GitHub.
 
-<figure>
-  <img src="{{ '/assets/img/2019/01/Screenshot_2019-01-15-2019-Saurus-Goals-1-.jpg' }}" alt=""> 
-</figure>
+{% figure [caption:"Completing six hikes is one of my goals for 2019"] %}
+  ![](/assets/img/2019/01/Screenshot_2019-01-15-2019-Saurus-Goals-1-.jpg) 
+{% endfigure %}
 
 Of course, all this information is hard-coded into the template, rather than being dynamically supplied by the Trello API - but do I really need it to be dynamic?
 
@@ -64,17 +62,17 @@ By definition, a yearly goal is something you set once a year, and the 30 minute
 
 That's not to say I'd never make the slide show dynamic - it might be fun to learn the Trello API, and I could probably do the whole thing using client side JavaScript, or as a Ruby Serverless application, but the LEAN methodology advocated failing fast, such as I did with the MagicMirror² approach, so there's no point spending any time even looking at anything like that when there's a quicker way of achieving the same end result.
 
-<figure>
-  <img src="{{ '/assets/img/2019/01/3069944_3x2_fail_fast.jpg' }}" alt=""> 
-</figure>
+{% figure [caption:"'The faster you can fail, the faster you can succeed'"] %}
+  ![](/assets/img/2019/01/3069944_3x2_fail_fast.jpg) 
+{% endfigure %}
 
 # Bringing it all together
 
 Now that I had an eye-catching slide show of goals hosted on GitHub, all that remained was to install Screenly and point it at the page. But it's at this point that I took a second pivot - given the sheer mess of components needed to make the laptop screen work, was this really the best approach?
 
-<figure>
-  <img src="{{ '/assets/img/2019/01/IMG_20190115_093324-1-.jpg' }}" alt=""> 
-</figure>
+{% figure %}
+  ![](/assets/img/2019/01/IMG_20190115_093324-1-.jpg) 
+{% endfigure %}
 
 To make a suitable enclosure for the display, driver board, and Pi, would take more effort that I really wanted to spend, and seeing as I am still planning on building my own smart mirror (spurred on by how impressed I was with the MagicMirror² platform, even if it wasn't suitable for this project) I'd rather keep these components for that.
 
@@ -82,6 +80,6 @@ So instead, as you will see from the feature image for this post, I used my [7" 
 
 All in all, I'm very happy with the outcome of this project, even if it didn't end up look anything like I thought it would, because I think the end result is far better than what I initially had in mind, and I was able to reach it quickly and easily.
 
-<figure>
-  <img src="{{ '/assets/img/2019/01/path-to-success-1.jpg' }}" alt=""> 
-</figure>
+{% figure %}
+  ![](/assets/img/2019/01/path-to-success-1.jpg) 
+{% endfigure %}

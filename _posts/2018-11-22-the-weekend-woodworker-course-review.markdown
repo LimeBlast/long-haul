@@ -16,4 +16,6 @@ If you're not a subscriber to the magazine, you can [download the PDF edition fo
 
 I hope you enjoy the review - feel free to [let me know what you think](https://twitter.com/limeblast) - &nbsp;and if you want more content like it, [subscribe to the blog](https://feedly.com/i/subscription/feed/https://maker.limeblast.co.uk/rss/).
 
-<figure><img src="/assets/img/2018/11/HS_13_Cover_Web.jpg"></figure>
+{% figure %}
+  ![](/assets/img/2018/11/HS_13_Cover_Web.jpg) 
+{% endfigure %}
