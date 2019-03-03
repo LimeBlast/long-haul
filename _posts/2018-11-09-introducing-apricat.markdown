@@ -42,6 +42,6 @@ We keep the door closed now.
 
 Anyway, we're letting her outside for the first time tomorrow. So provided she comes back, I'll post about Project Wildcat next.
 
-![IMG_20181013_155949--2-](//d1a0j00khen1nw.cloudfront.net/2018/11/IMG_20181013_155949--2-.jpg)
+![IMG_20181013_155949--2-](/assets/img/2018/11/IMG_20181013_155949--2-.jpg)
 
 UPDATE: She came back in, [but then disaster struck](/2018/11/10/project-wildcat-has-been-delayed/).

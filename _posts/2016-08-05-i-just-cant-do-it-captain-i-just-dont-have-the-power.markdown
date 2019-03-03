@@ -15,13 +15,13 @@ This morning brought with it the final component I needed I start on the battery
 
 One of the battery monitor's features is its ability to power it's Arduino component from the battery being tested - but of course, this only works if the battery in question has at least a trickle of power - it would appear that mine doesn't.
 
-![](//d1a0j00khen1nw.cloudfront.net/2016/08/voltchart1.gif)
+![](/assets/img/2016/08/voltchart1.gif)
 
 I still don't fully understand the mechanisms behind this, but a battery's state of change is measured via its voltage output. On a 12-volt battery, a voltage of `12.6` is fully charged, while anything below `10.5` is empty.
 
 Multimeter probes in hand, I measured the voltage on mine: `2.37`. This is severely under voltage, and I'd imagine probably beyond repair. I can't even get an LED to light up using it.
 
-![](//d1a0j00khen1nw.cloudfront.net/2016/08/IMG_20160805_142549282--1-.jpg)
+![](/assets/img/2016/08/IMG_20160805_142549282--1-.jpg)
 
 Although I can't be sure, I think this is very possibly related to the broken charge controller I mentioned yesterday, and if nothing else, this is a hard-learned lesson about leaving unused batteries connected.
 

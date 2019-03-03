@@ -7,7 +7,7 @@ tags:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-![thumb image-post mask](//d1a0j00khen1nw.cloudfront.net/2016/06/ps-Screenshot_20160611-115413--2-.png)
+![thumb image-post mask](/assets/img/2016/06/ps-Screenshot_20160611-115413--2-.png)
 
 Maybe not rain, but there's certainly no sun today, and that makes testing my solar panel challenging.
 
@@ -15,7 +15,7 @@ That said, I'm now (fairly) confident that the battery is receiving a charge, as
 
 The charge controller has a _PV_ LED on it, which I've now come to realise shows if power is being received from the panel. It also has battery LEDs which show if it's _overlow_, _normal_ or _full_. It was showing overlow during the phone charge experiment yesterday and has shown normal the rest of the time. I'm hoping that I'll see the full LED light up at some point, but I'm going to need some better weather else it's going to take a very long time to happen.
 
-![](//d1a0j00khen1nw.cloudfront.net/2016/06/ps-IMG_20160611_112729278--1-.jpg)
+![](/assets/img/2016/06/ps-IMG_20160611_112729278--1-.jpg)
 
 Anyway, I'm now at a juncture and need to make a decision. Do I continue on to project 2 and learn how to manually charge the battery using a bicycle (perfect for days without the sun like today), or skip forward to project 3 and rig up some lights?
 

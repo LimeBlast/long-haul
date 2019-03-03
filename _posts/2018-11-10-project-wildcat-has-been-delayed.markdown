@@ -17,7 +17,7 @@ As [mentioned in my previous post](https://maker.limeblast.co.uk/2018/11/09/intr
 
 To help combat this I devised the idea of an incident board, such as you'll see in factories showing how long it's been since the last accident, but designed to show how long it's been since Apricat last misbehaved.
 
-![np74ijwbwxo11](//d1a0j00khen1nw.cloudfront.net/2018/11/np74ijwbwxo11.jpg)
+![np74ijwbwxo11](/assets/img/2018/11/np74ijwbwxo11.jpg)
 
 The plan was to use an [Adafruit Feather Huzzah](https://amzn.to/2PSGurk) and a [16x8 LED matrix](https://amzn.to/2Dxtlht), connected with a physical button, and a super cute cat photo frame we found in Homesense, to build a ticker which used data persisted on [Adafruit IO](https://io.adafruit.com/) to calculate and display how long it's been since the button was last pressed.
 
@@ -41,7 +41,7 @@ I had a couple of flashing LEDs on the board, but nothing else. Confused as to w
 
 After a few minutes searching I found the following on the [power management page for the Huzzah](https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/power-management):
 
-![Power-Management-_-Adafruit-Feather-HUZZAH-ESP8266-_-Adafruit-Learning-System-2018-11-10-8-pm-33-33](//d1a0j00khen1nw.cloudfront.net/2018/11/Power-Management-_-Adafruit-Feather-HUZZAH-ESP8266-_-Adafruit-Learning-System-2018-11-10-8-pm-33-33.png)
+![Power-Management-_-Adafruit-Feather-HUZZAH-ESP8266-_-Adafruit-Learning-System-2018-11-10-8-pm-33-33](/assets/img/2018/11/Power-Management-_-Adafruit-Feather-HUZZAH-ESP8266-_-Adafruit-Learning-System-2018-11-10-8-pm-33-33.png)
 
 The power unit I'd chosen at random was the official Raspberry Pi 3 power adaptor, one which supplied the same 2.5 amps as the CanaKit one in the warning.
 

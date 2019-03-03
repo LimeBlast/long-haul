@@ -9,7 +9,7 @@ tags:
 
 The [solar panel](http://amzn.to/1XT5QkY) arrived today. It's about the size and shape that I expected and thankfully doesn't seem to weigh too much.
 
-![](//d1a0j00khen1nw.cloudfront.net/2016/06/solar-panel--1-.jpg)
+![](/assets/img/2016/06/solar-panel--1-.jpg)
 
 Obviously, the point of a solar panel is to sit outside and soak up the sun's tasty, tasty rays, converting them into electricity as it does so. But for this to happen I need to figure out how to safely attach it to my balcony, so it doesn't fall and kill anyone.
 

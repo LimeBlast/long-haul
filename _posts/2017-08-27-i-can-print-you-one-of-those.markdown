@@ -21,19 +21,19 @@ After about 8 hours assembling on the Thursday I took a break for the rest of th
 
 He arrived at 9am on the Saturday, and after a few hours _tightening this and readjusting that_ he started the first print, a whistle design that shipped with the printer:
 
-![](//d1a0j00khen1nw.cloudfront.net/2017/08/whistle-1-.jpg)
+![](/assets/img/2017/08/whistle-1-.jpg)
 
 This was shortly followed by a couple of [keychains I'd designed using Tinkercad]( https://www.tinkercad.com/things/4PpOsidxtfM-danielsaurus-keychain):
 
-![](//d1a0j00khen1nw.cloudfront.net/2017/08/sauruschain-1-.jpg)
+![](/assets/img/2017/08/sauruschain-1-.jpg)
 
 And then the first:
 
-![](//d1a0j00khen1nw.cloudfront.net/2017/08/benchy-1-.jpg)
+![](/assets/img/2017/08/benchy-1-.jpg)
 
 of many [benchys](http://www.3dbenchy.com/) (a print designed to benchmark printers and filaments, and helps diagnose problems):
 
-![](//d1a0j00khen1nw.cloudfront.net/2017/08/fleet-1-.jpg)
+![](/assets/img/2017/08/fleet-1-.jpg)
 
 The first functional print was a new [spool holder](https://www.thingiverse.com/make:371893) (with the very concept of the printer being able to fabricate its own replacement parts blowing Cos' mind), followed by a [cable holder](https://www.thingiverse.com/make:372338) and a caddy for the Raspberry Pi running [Octoprint](http://octoprint.org/) (software which lets me control the printer and issue jobs to it remotely).
 

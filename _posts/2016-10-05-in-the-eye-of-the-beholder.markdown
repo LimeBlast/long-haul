@@ -17,7 +17,7 @@ Anyway...
 
 The idea behind the project is to monitor a webcam feed for changes between frames (something which might indicate movement) and use the Raspberry Squid (an RGB LED which has been pre-assembled with resistors and connectors to plug it directly into the GPIO ports on the Pi) to notify an operator by turning red.
 
-![](//d1a0j00khen1nw.cloudfront.net/2016/10/2016-10-05-220239_1440x900_scrot.png)
+![](/assets/img/2016/10/2016-10-05-220239_1440x900_scrot.png)
 
 If I'm honest, this project has left me a little underwhelmed.
 

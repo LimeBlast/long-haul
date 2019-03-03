@@ -15,7 +15,7 @@ Alternatively, the first project in the book is now complete, and I have a batte
 
 Despite rogue couriers delivering my stuff to the wrong address, sweltering heat, and a very demanding (but lovely) girlfriend, I've somehow managed to gather the resources and time needed to assemble the various components into something that actually works (maybe).
 
-![](//d1a0j00khen1nw.cloudfront.net/2016/06/ps-IMG_20160610_191513957--1-.jpg)
+![](/assets/img/2016/06/ps-IMG_20160610_191513957--1-.jpg)
 
 What we have here is a solar panel with a cable that's connected to the first two terminals on the charge controller. The third terminal is connected to the 10 amp port on the multimeter, which in turn is connected to the positive terminal on the battery via the common port. Finally, the negative terminal on the battery connects to the fourth terminal.
 

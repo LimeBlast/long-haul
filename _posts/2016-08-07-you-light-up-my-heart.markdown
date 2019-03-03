@@ -13,7 +13,7 @@ With the failure of the battery monitor project, I was determined to end the day
 
 Upon opening the kit I was presented with a cute diagram inviting me to "hack this box with lights". Further investigation revealed a _Sketchbook_, 12 LED stickers of different colours, 5 meters of copper tape, and a couple of coin cell batteries.
 
-![](//d1a0j00khen1nw.cloudfront.net/2016/08/IMG_20160807_105810413_HDR--1-.jpg)
+![](/assets/img/2016/08/IMG_20160807_105810413_HDR--1-.jpg)
 
 The sketchbook is nicely designed instruction manual which lets you use its pages as a template for teaching the basics of electronics. I was really tempted to complete the tasks contained within it as they looked pretty fun (and can see myself doing it with my niece when she's a bit older), but in this particular instance I didn't want to waste the limited resources I had, so instead reached for a heart-shaped slate which I purchased from Hobbycraft a couple months prior.
 
@@ -21,7 +21,7 @@ The plan had always been to add some LEDs to it in one way or another, either vi
 
 The design is based on a pattern I created a few years ago, which I settled on after some paper-drawn prototypes, and a test pattern created with unstuck strips of tape.
 
-![](//d1a0j00khen1nw.cloudfront.net/2016/08/IMG_20160805_222823666--2---1-.jpg)
+![](/assets/img/2016/08/IMG_20160805_222823666--2---1-.jpg)
 
 The battery for the LEDs is stuck to the back, with positive side coming through the left string hole, and the negative one going though the one on the right. The LEDs bridge the gap between them, completing the circuit.
 

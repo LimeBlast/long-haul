@@ -17,7 +17,7 @@ The main tool used in this project is the mitre saw, which I spoke about in my l
 
 The only other thing I should mention is the saw was causing a lot of splintering on the wood at the point of exit. I don't know if this is due to the quality of the wood (I got the cheapest I could), the saw blade (it's designed for multiple materials, so maybe one made specifically for wood would work better), or simply because I'm not doing it right (maybe I'm cutting the wood too quickly?).
 
-![IMG_20180901_130453-1-](//d1a0j00khen1nw.cloudfront.net/2018/09/IMG_20180901_130453-1-.jpg)
+![IMG_20180901_130453-1-](/assets/img/2018/09/IMG_20180901_130453-1-.jpg)
 
 Also introduced this in this project were jigs. These are temporary tools you build yourself to aid in construction, such as the right angle jig shown above.
 
@@ -27,6 +27,6 @@ Also new to this project was the concept of applying a finish to the build, with
 
 I also spent some time this weekend adding further personalisation to the workbench via stencils, and some stickers I got from Maker Central event a couple months ago. I think it's looking really good, and am excited to personalise it further as time goes on.
 
-![IMG_20180903_122550-1-](//d1a0j00khen1nw.cloudfront.net/2018/09/IMG_20180903_122550-1-.jpg)
+![IMG_20180903_122550-1-](/assets/img/2018/09/IMG_20180903_122550-1-.jpg)
 
 All in all, I enjoyed this build. I can see myself building more stuff for the garden - both functional and ornamental - which is handy as the next project is the Harmony Garden Bench, which truly is a thing of beauty. I'm aiming to do it at the end of September - so make sure you come back then.

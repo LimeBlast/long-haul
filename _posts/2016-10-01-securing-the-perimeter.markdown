@@ -15,7 +15,7 @@ Next, I attached the PIR sensor to the screw shield. The PIR sensor works by det
 
 The book suggests using a long telephone wire to position the PIR sensor outside the base (it's not a very good detector if it doesn't inform you of the intrusion until they're in the same room as you), but for my testing purposes, I'm happy with it just sitting on the table.
 
-![](//d1a0j00khen1nw.cloudfront.net/2016/10/WhatsApp-Image-2016-09-29-at-8-32-26-PM--1-.jpeg)
+![](/assets/img/2016/10/WhatsApp-Image-2016-09-29-at-8-32-26-PM--1-.jpeg)
 
 Finally, I compiled the sketch provided by the book, flashed it onto the Arduino, and connected the power. The display told me my battery was full, so I adjusted the power supply up and down and watched meter move up and down in accordance.
 

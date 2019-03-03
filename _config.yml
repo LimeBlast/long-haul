@@ -13,11 +13,11 @@ paginate: 10
 
 navigation:
   - title: Home
-    url: /index.html
+    url: /
   - title: About
-    url: /about
+    url: /about-this-blog/
   - title: Contact
-    url: /contact
+    url: /contact/
 
 social:
   github: limeblast

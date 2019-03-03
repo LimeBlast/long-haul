@@ -9,7 +9,7 @@ tags:
 
 This is a short post with a simple mission - to inform all (three) of you of my success in completing Project 3: LED Lighting.
 
-![](//d1a0j00khen1nw.cloudfront.net/2016/09/lights--1-.jpg)
+![](/assets/img/2016/09/lights--1-.jpg)
 
 Following on from what I learned last week, I have indeed discovered that I'm able to run at least five 10-watt bulbs without expending my maximum current.
 

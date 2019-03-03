@@ -21,7 +21,7 @@ My only complaint about the manual is the presentation of the code for the Ardui
 
 The first project was simple enough to assemble. It features a colour changing Chinese lantern controlled by three LEDs. The LEDs, one each of red, green and blue, step in turn through different levels of brightness, allowing for the mixing of the colours to light up the lantern.
 
-![](//d1a0j00khen1nw.cloudfront.net/2016/10/IMG_20161003_162531500_HDR--1-.jpg)
+![](/assets/img/2016/10/IMG_20161003_162531500_HDR--1-.jpg)
 
 It also has a light sensor which is meant switch the lantern off during the day, but in my case, it didn't. This is probably something to do with the threshold defined in the script, which I've been far too lazy to toy about with.
 
