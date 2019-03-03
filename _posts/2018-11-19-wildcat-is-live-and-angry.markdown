@@ -3,6 +3,7 @@ author: daniel
 layout: post
 title: Wildcat is live (and angry)
 date: '2018-11-19 21:27:24'
+image: /2018/11/IMG_20181119_202201--1-.jpg
 categories:
 - wildcat
 tags:

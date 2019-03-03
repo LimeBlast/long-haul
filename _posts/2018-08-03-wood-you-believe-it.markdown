@@ -4,6 +4,7 @@ layout: post
 title: Wood you believe it?
 date: '2018-08-03 21:07:48'
 description: I’m not sure at what point I’m going to be able to legitimately call myself a woodworker, but I became one step closer to that point today as I’ve finally cut some wood in anger.
+image: 2018/08/alex-jones-6800-unsplash-1-.jpg
 categories:
 - weekend-woodworker
 ---

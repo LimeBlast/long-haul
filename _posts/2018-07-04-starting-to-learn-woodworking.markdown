@@ -3,6 +3,7 @@ author: daniel
 layout: post
 title: I'm starting to learn woodworking
 date: '2018-07-04 21:20:01'
+image: /2018/07/image.jpg
 categories:
 - weekend-woodworker
 ---

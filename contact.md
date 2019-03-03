@@ -10,7 +10,7 @@ title: Contact Long Haul
     <p>I'm available across a number of social media platforms, as listed in the footer of this site, or via the <a href="https://danielhollands.co.uk/">My Name is Daniel</a> site.</p>
     <p>But seeing as you're already here, feel free to use the form on this page to send me an email.</p>
   </div>
-  <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
+  <form name="contact" method="POST" data-netlify="true">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>

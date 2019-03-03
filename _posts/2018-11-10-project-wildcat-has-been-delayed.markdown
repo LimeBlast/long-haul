@@ -3,6 +3,7 @@ author: daniel
 layout: post
 title: Project Wildcat... has been delayed
 date: '2018-11-10 21:35:58'
+image: 2018/11/IMG_20181110_100407-1-.jpg
 categories:
 - wildcat
 tags:

@@ -3,6 +3,7 @@ author: daniel
 layout: post
 title: My Halloween box isn't four months late, it's eight months early
 date: '2017-02-09 22:49:58'
+image: 2017/02/halloween-pumpkin-lantern--1-.jpg
 categories:
 - spooktober
 tags:

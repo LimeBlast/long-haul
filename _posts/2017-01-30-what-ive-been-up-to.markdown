@@ -3,6 +3,7 @@ author: daniel
 layout: post
 title: What I've been up to
 date: '2017-01-30 21:41:00'
+image: 2017/01/8z2Q6XWLYa4--1-.jpg
 categories:
 - personal
 ---
