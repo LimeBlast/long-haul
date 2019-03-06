@@ -10,7 +10,7 @@ tags:
 - arduino
 ---
 
-A couple of months ago I got really excited when I saw that Adafruit had launched a curated box of products suitable for anyone that's part of the maker scene. The [AdaBox](https://www.adafruit.com/adabox) follows the same concept as something like Loot Crate, which has a unique theme per box and includes a bunch of items related to that theme. Once a particular box is gone, it's gone.
+<p class="intro"><span class="dropcap">A</span> couple of months ago I got really excited when I saw that Adafruit had launched a curated box of products suitable for anyone that's part of the maker scene. The <a href="https://www.adafruit.com/adabox">AdaBox</a> follows the same concept as something like Loot Crate, which has a unique theme per box and includes a bunch of items related to that theme. Once a particular box is gone, it's gone.</p>
 
 Unfortunately, this excitement soon died down when I discovered AdaBox isn't available in the UK ([yet](http://forums.pimoroni.com/t/any-plans-for-curated-boxes-for-makers-and-or-electronics-enthusiasts/2816/1)), but I wasn't going give up hope, so off I went looking for an alternative - which is when I found [Creation Crate](https://mycreationcrate.com/refer/Danie-TCVKWSNV).
 

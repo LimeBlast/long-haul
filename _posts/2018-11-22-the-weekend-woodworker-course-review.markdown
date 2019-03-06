@@ -10,7 +10,7 @@ tags:
 - hackspace-magazine
 ---
 
-As anyone that follows this blog knows, I've slowly been working my way though [the Weekend Woodworker course](/category/weekend-woodworker/) by Steve Ramsey.
+<p class="intro"><span class="dropcap">A</span>s anyone that follows this blog knows, I've slowly been working my way though <a href="/category/weekend-woodworker/">the Weekend Woodworker course</a> by Steve Ramsey.</p>
 
 I found the course enlightening and educational, as well as entertaining, so when I was given the opportunity to write a review of it for [HackSpace magazine](https://hackspace.raspberrypi.org/), I jumped at it - and today that review has been published in issue 13.
 

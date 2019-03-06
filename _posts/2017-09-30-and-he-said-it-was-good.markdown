@@ -12,7 +12,7 @@ tags:
 - sonoff
 ---
 
-I'm not sure why I've not spoken about this before, but back in June, after starting the [Electronics class on Instructables](https://www.instructables.com/class/Electronics-Class/), I completed my second large maker project: a [Mad Scientist Light](https://www.instructables.com/id/Build-a-Mad-Scientist-Light/#comment-CMMSLIYJ3EPQVMC).
+<p class="intro"><span class="dropcap">I</span>'m not sure why I've not spoken about this before, but back in June, after starting the <a href="https://www.instructables.com/class/Electronics-Class/">Electronics class on Instructables</a>, I completed my second large maker project: a <a href="https://www.instructables.com/id/Build-a-Mad-Scientist-Light/#comment-CMMSLIYJ3EPQVMC">Mad Scientist Light</a>.</p>
 
 ![](/assets/img/2017/09/IMG_20170604_151522.jpg)
 

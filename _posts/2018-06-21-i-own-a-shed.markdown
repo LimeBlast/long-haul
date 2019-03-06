@@ -8,7 +8,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-When I first started this blog I was living in a small two-bedroom flat in the centre of Birmingham. It was great for transport, shopping, and restaurants, but terrible for project work.
+<p class="intro"><span class="dropcap">W</span>hen I first started this blog I was living in a small two-bedroom flat in the centre of Birmingham. It was great for transport, shopping, and restaurants, but terrible for project work.</p>
 
 The main problems I faced were the lack of space to work, and my inability to make any changes to the property. As much as I might have wanted to put a sensor on the door to check for intruders (read: my flatmate), or drill some holes to put-up a display - I wasn't allowed.
 

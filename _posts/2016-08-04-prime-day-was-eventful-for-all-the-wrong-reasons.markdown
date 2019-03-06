@@ -8,7 +8,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-The 12th July was [Prime Day](http://amzn.to/2aLrwxh), Amazon's answer to the _blue cross sale_.
+<p class="intro"><span class="dropcap">T</span>he 12th July was <a href="http://amzn.to/2aLrwxh">Prime Day</a>, Amazon's answer to the <em>blue cross sale</em>.</p>
 
 This is relevant, as I was saving my money for this special day, planning to use it as an opportunity to get the items needed for some of the upcoming projects.
 

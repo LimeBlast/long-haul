@@ -11,7 +11,7 @@ tags:
 - tinkercad
 ---
 
-This is the third post in the [Wildcat saga](/category/wildcat/), so if this is your first time reading this blog it might be worth catching up - to find out more about the antagonist of our story, start with [Introducing Apricat](/2018/11/09/introducing-apricat/), and to understand our approach to solving the problem (and one of the challenges I've encountered on the way), read [Project Wildcat... has been delayed](/2018/11/10/project-wildcat-has-been-delayed/).
+<p class="intro"><span class="dropcap">T</span>his is the third post in the <a href="/category/wildcat/">Wildcat saga</a>, so if this is your first time reading this blog it might be worth catching up - to find out more about the antagonist of our story, start with <a href="/2018/11/09/introducing-apricat/">Introducing Apricat</a>, and to understand our approach to solving the problem (and one of the challenges I've encountered on the way), read <a href="/2018/11/10/project-wildcat-has-been-delayed/">Project Wildcat... has been delayed</a>.</p>
 
 All caught up? Good. Because I'm happy to reveal that Wildcat is live.
 

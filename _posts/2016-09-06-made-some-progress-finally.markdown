@@ -8,7 +8,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-This is a short post with a simple mission - to inform all (three) of you of my success in completing Project 3: LED Lighting.
+<p class="intro"><span class="dropcap">T</span>his is a short post with a simple mission - to inform all (three) of you of my success in completing Project 3: LED Lighting.</p>
 
 ![](/assets/img/2016/09/lights--1-.jpg)
 

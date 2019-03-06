@@ -15,7 +15,7 @@ tags:
 - c
 ---
 
-Nothing exists in a vacuum, and desires don't spring out of nowhere, so it's surely obvious that prior to [spending £126.58 on components](/2016/05/31/im-officially-126-58-more-prepared-than-i-was-yesterday/), I must have engaged in some toe dipping, right?
+<p class="intro"><span class="dropcap">N</span>othing exists in a vacuum, and desires don't spring out of nowhere, so it's surely obvious that prior to <a href="/2016/05/31/im-officially-126-58-more-prepared-than-i-was-yesterday/">spending £126.58 on components</a>, I must have engaged in some toe dipping, right?</p>
 
 My interest in this whole arena started with issue 40 of [The MagPi magazine](https://www.raspberrypi.org/magpi/), an issue which made history by being the first to give a computer away for free: the Pi Zero.
 

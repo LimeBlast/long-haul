@@ -12,7 +12,7 @@ tags:
 - circuit-playground-express
 ---
 
-Unlike [the last time I tried building something ready for Halloween](/2017/02/09/my-halloween-box-isnt-four-months-late-its-eight-months-early/), I'm somewhat proud of the fact that I was able to have an idea for a project on a Thursday, and have it finished by the Sunday.
+<p class="intro"><span class="dropcap">U</span>nlike <a href="/2017/02/09/my-halloween-box-isnt-four-months-late-its-eight-months-early/">the last time I tried building something ready for Halloween</a>, I'm somewhat proud of the fact that I was able to have an idea for a project on a Thursday, and have it finished by the Sunday.</p>
 
 The idea was inspired by a wooden Jack-o'-lantern I spotted in a shop window while on holiday in Cheddar Gorge - as I saw it, I thought to myself "I can make that", and as soon as we got back to the hotel room, I did some research and found this awesome video, which served as the basis for my own build:
 

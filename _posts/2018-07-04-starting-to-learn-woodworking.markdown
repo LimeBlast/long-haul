@@ -8,7 +8,7 @@ categories:
 - weekend-woodworker
 ---
 
-For a craft where the principle material literally grows on trees, it's surprising just how expensive it is to get started in woodworking.
+<p class="intro"><span class="dropcap">F</span>or a craft where the principle material literally grows on trees, it's surprising just how expensive it is to get started in woodworking.</p>
 
 I've had an interest in learning woodworking for the past 2 or so years, born out of watching maker videos on YouTube by people like [Peter Brown](https://www.youtube.com/user/kludge1977) and [Steve Ramsey](https://www.youtube.com/channel/UCBB7sYb14uBtk8UqSQYc9-w) (among many other quality channels).
 

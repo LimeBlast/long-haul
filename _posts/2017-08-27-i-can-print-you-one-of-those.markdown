@@ -10,7 +10,7 @@ tags:
 - 3d-printer
 ---
 
-On the 28th July 2017, shortly after moving to Worcester with my girlfriend (say hello, Lucy), I ordered the [Prusa i3 MK2S](http://www.prusa3d.com/) 3D printer.
+<p class="intro"><span class="dropcap">O</span>n the 28th July 2017, shortly after moving to Worcester with my girlfriend (say hello, Lucy), I ordered the <a href="http://www.prusa3d.com/">Prusa i3 MK2S</a> 3D printer.</p>
 
 I'd been thinking about getting a 3D printer for a couple of months, and shortly before the move - after realising that my desire to learn woodworking would have to be put on hold due to lack of suitable space within which to do it - I decided that I was going to save up for one over the next six months... So when I received the letter telling me I had paid around £700 too much tax the previous year, I knew exactly what I was going to spend the rebate on.
 

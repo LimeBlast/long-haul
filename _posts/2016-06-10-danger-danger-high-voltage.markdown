@@ -8,7 +8,7 @@ categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
 
-I am Edison. I am Tesla. I am capable of generating power from the very sun itself. I am God!
+<p class="intro"><span class="dropcap">I</span> am Edison. I am Tesla. I am capable of generating power from the very sun itself. I am God!</p>
 
 _*Ahem*_
 
