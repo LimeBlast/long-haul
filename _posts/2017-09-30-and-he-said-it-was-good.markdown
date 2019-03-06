@@ -30,7 +30,7 @@ The _most_ anxious part was the wiring. Or more specifically, plugging it in aft
 
 Anyway, I mention this now because I've finally added the component most sorely missing from the build - a switch. Until now, when we wanted to use it, someone would have to climb under the table and plug it in - which as I'm sure you can imagine meant it wasn't used very often.
 
-But not just any switch, you understand. While it might have the look of the 19th century, it's firmly rooted in the 21st thanks to the use of a [Sonoff](http://amzn.to/2kbuHFO) switch, which not only lets me control the lamp from an app on my phone, but also via Alexa on my Amazon Echo.
+But not just any switch, you understand. While it might have the look of the 19th century, it's firmly rooted in the 21st thanks to the use of a [Sonoff](https://amzn.to/2Tkfm6V) switch, which not only lets me control the lamp from an app on my phone, but also via Alexa on my Amazon Echo.
 
 Installing the Sonoff is easy, as you simply put it in serial with the live and neutral wires coming in from the socket, which not only powers the device itself, but also lets you control a relay that feeds power on to the lamp.
 

@@ -32,7 +32,7 @@ Now, having got the first two boxes (although I've not assembled the second one 
 
 When my niece is a bit older, I can very much see myself gifting a subscription to her, and would very much enjoy helping her assemble each project, but she's a few years off that just now, and I can think of cheaper ways of getting spare Arduinos.
 
-Hopefully, AdaBox (or something like it) will cross the pond in the near future, and I'll have something else to spend my disposable income on, until then, I'll stick to [preparing for the zombie apocalypse](/project-objective/).
+Hopefully, AdaBox (or something like it) will cross the pond in the near future, and I'll have something else to spend my disposable income on, until then, I'll stick to preparing for the zombie apocalypse.
 
 **Update: 5th October:** Since I first published this post I've had a chance to build the second kit, a memory game which plays like [Simon](https://www.wikiwand.com/en/Simon_(game)).
 

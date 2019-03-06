@@ -36,13 +36,13 @@ The box turned out to be the easiest part of the project. I was able to design a
 
 I don't think the laser cutter was configured correctly, as it took several passes for the laser to fully penetrate the wood, which resulted in a lot of burn marks on it, but this didn't bother me too much it was going to be painted anyway. Plus, _mmmmmmm - burning wood smell_.
 
-After throwing a [frame clamp set](http://www.wilko.com/all-hand-tools/frame-clamp-set-with-4m-strap/invt/0342307) and some wood glue into the mix, I soon assembled five of the six sides of the box. I left the back panel off as this was my access point for inserting the front panel and LEDs.
+After throwing a frame clamp set and some wood glue into the mix, I soon assembled five of the six sides of the box. I left the back panel off as this was my access point for inserting the front panel and LEDs.
 
 Talking of LEDs, they're next. Although I had played with Neopixels before, this didn't require anything nearly so complex, so I went for some regular [12v RGB LED strips](http://amzn.to/2kxw27V). I mounted these in a grid on the back panel (a process which required a lot of soldering and hot glue).
 
 The last bit was the acrylic front panel, which turned out to be a massive pain in the arse.
 
-It's made out of a material called [TroLase Reverse](https://www.engraving-supplies.co.uk//laser-materials/trolase-reverse.html?dsc=1), so called because:
+It's made out of a material called [TroLase Reverse](https://www.engraving-supplies.co.uk/catalogsearch/result/?q=trolase+reverse), so called because:
 
 > [It] comprises of a transparent acrylic fascia with a coloured coating on the reverse side. By reverse engraving your image into the coloured layer you expose clear text/image which can either be infilled with your choice of acrylic paint or backlit for an effective contrast.
 
