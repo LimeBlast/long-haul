@@ -1,24 +1,6 @@
-![preview Long Haul](/preview.jpg)
+# What I'm Doing to Prepare for the Zombie Apocalypse
 
-Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
-
-If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
-
-#### [View Demo](http://brianmaierjr.com/long-haul)
-
-## Features
-
-- Minimal, Type Focused Design
-- Built with GULP + SASS + BROWSERSYNC + AUTOPREFIXER
-- SVG Social Icons
-- Responsive Nav Menu
-- XML Feed for RSS Readers
-- Contact Form via Formspree
-- 5 Post Loop with excerpt on Home Page
-- Previous / Next Post Navigation
-- Estimated Reading Time for posts
-- Stylish Drop Cap on posts
-- A Better Type Scale for all devices
+A Jekyll blog, based on the [Long Haul theme](https://github.com/brianmaierjr/long-haul).
 
 ## Setup
 
@@ -42,6 +24,18 @@ The main settings can be found inside the `_config.yml` file:
 - **navigation:** these are the links in the main site navigation
 - **social** diverse social media usernames (optional)
 - **google_analytics** Google Analytics key (optional)
+
+
+## Creating new posts
+
+[Jekyll::Compose](https://github.com/jekyll/jekyll-compose) is used to provide a quick way of composing new posts via the CLI, eg:
+
+```bash
+$ bundle exec jekyll page "My new page"
+$ bundle exec jekyll post "My new post"
+$ bundle exec jekyll draft "My new draft"
+$ bundle exec jekyll publish _drafts/my-new-draft.md
+```
 
 ## License
 
