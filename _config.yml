@@ -9,9 +9,10 @@ permalink: /:year/:month/:day/:title/
 markdown: kramdown
 highlighter: rouge
 plugins:
-  - jekyll-paginate
-  - jekyll-figure
   - jekyll-archives
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-figure
 
 paginate: 10
 
