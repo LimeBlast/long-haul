@@ -10,9 +10,10 @@ markdown: kramdown
 highlighter: rouge
 plugins:
   - jekyll-archives
-  - jekyll-paginate
   - jekyll-feed
   - jekyll-figure
+  - jekyll-paginate
+  - jekyll-redirect-from
 
 paginate: 10
 
