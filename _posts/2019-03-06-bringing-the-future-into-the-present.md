@@ -2,7 +2,7 @@
 layout: post
 title: Bringing the Future into the Present
 date: '2019-03-06 15:19:43'
-image: 2019/03/ddeabf38a86146eff02f35468fbfc6b8.jpg
+image: /assets/img/2019/03/ddeabf38a86146eff02f35468fbfc6b8.jpg
 category: 
 - personal
 tags: 

@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: Slight change in direction
 date: '2017-05-24 18:29:12'
-image: 2017/05/brendan-church-182747--1-.jpg
+image: /assets/img/2017/05/brendan-church-182747--1-.jpg
 categories:
 - personal
 tags:

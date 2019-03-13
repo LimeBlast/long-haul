@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: I built a workbench
 date: '2018-08-21 15:03:41'
-image: 2018/08/IMG_20180821_143420-1-.jpg
+image: /assets/img/2018/08/IMG_20180821_143420-1-.jpg
 categories:
 - weekend-woodworker
 ---

@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: I'm officially £126.58 more prepared than I was yesterday
 date: '2016-05-31 21:30:17'
-image: 2016/06/light-at-night--1-.jpg
+image: /assets/img/2016/06/light-at-night--1-.jpg
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---

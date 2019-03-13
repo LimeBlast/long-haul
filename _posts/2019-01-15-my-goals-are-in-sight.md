@@ -2,7 +2,7 @@
 layout: post
 title: My goals are in sight
 date: '2019-01-15 09:57:56'
-image: 2019/01/IMG_20190115_090111-1-.jpg
+image: /assets/img/2019/01/IMG_20190115_090111-1-.jpg
 categories:
 - personal
 tags:

@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: What's in the box?
 date: '2016-10-03 16:24:21'
-image: 2016/10/pexels-photo-24325--1-.jpg
+image: /assets/img/2016/10/pexels-photo-24325--1-.jpg
 categories:
 - review
 tags:

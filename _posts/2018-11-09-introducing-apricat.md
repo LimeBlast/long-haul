@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: Introducing Apricat
 date: '2018-11-09 19:34:05'
-image: 2018/11/IMG_20181103_074113--1-.jpg
+image: /assets/img/2018/11/IMG_20181103_074113--1-.jpg
 categories:
 - wildcat
 tags:

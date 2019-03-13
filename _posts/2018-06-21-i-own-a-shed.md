@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: I own a shed!
 date: '2018-06-21 14:06:18'
-image: /2018/06/OxzhYtL-00Y-1-.jpg
+image: /assets/img//2018/06/OxzhYtL-00Y-1-.jpg
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---

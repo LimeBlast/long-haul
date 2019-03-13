@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: One step forward, two steps back
 date: '2016-08-27 14:28:47'
-image: 2016/08/one_step--1-.jpg
+image: /assets/img/2016/08/one_step--1-.jpg
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---

@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: Jack-o'-lantern out of reclaimed wood
 date: '2018-10-08 14:19:59'
-image: 2018/10/IMG_20181008_141454-1-.jpg
+image: /assets/img/2018/10/IMG_20181008_141454-1-.jpg
 categories:
 - spooktober
 tags:

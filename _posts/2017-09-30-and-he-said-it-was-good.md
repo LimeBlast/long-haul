@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: "... and he said it was good"
 date: '2017-09-30 15:31:15'
-image: 2017/09/photo-1440595228939-3673bdb622b4--1-.jpg
+image: /assets/img/2017/09/photo-1440595228939-3673bdb622b4--1-.jpg
 categories:
 - other-builds
 tags:

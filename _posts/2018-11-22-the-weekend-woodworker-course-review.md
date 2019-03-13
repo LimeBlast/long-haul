@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: The Weekend Woodworker course review
 date: '2018-11-22 11:48:09'
-image: 2018/11/IMG_20181122_105000-1--1.jpg
+image: /assets/img/2018/11/IMG_20181122_105000-1--1.jpg
 categories:
 - weekend-woodworker
 tags:

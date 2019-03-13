@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: Learning from one's mistakes
 date: '2016-09-01 19:25:32'
-image: 2016/09/mistakes--1-.jpg
+image: /assets/img/2016/09/mistakes--1-.jpg
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---

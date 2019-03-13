@@ -4,7 +4,7 @@ layout: post
 title: Patio Table Build
 date: '2018-09-03 12:48:54'
 description: Another weekend, and another woodworking project - this time, the California Casual Patio Table. This is the first official project on the course, which is reflected in the simplicity of the design and build method.
-image: 2018/09/IMG_20180903_122741-1-.jpg
+image: /assets/img/2018/09/IMG_20180903_122741-1-.jpg
 categories:
 - weekend-woodworker
 ---

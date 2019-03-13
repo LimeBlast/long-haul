@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: My progress up to this point
 date: '2016-06-01 14:34:59'
-image: 2016/06/rapi.jpg
+image: /assets/img/2016/06/rapi.jpg
 categories:
 - personal
 tags:

@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: Maze Robot
 date: '2018-02-06 08:54:03'
-image: 2018/02/ashley-batz-1298.jpg
+image: /assets/img/2018/02/ashley-batz-1298.jpg
 categories:
 - other-builds
 tags:

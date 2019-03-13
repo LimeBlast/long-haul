@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: Made some progress, finally!
 date: '2016-09-06 19:32:55'
-image: 2016/09/progress--1-.jpg
+image: /assets/img/2016/09/progress--1-.jpg
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---

@@ -3,7 +3,7 @@ author: daniel
 layout: post
 title: Let there be light
 date: '2016-06-02 16:47:15'
-image: 2016/06/let-there-be-light--1-.jpg
+image: /assets/img/2016/06/let-there-be-light--1-.jpg
 categories:
 - the-makers-guide-to-the-zombie-apocalypse
 ---
