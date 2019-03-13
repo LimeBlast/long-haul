@@ -18,10 +18,6 @@ Generally, the speaker in question is a guest from a neighbouring community or a
 
 I gave the talk, and received lots of positive feedback, so I wanted to share it here.
 
-The slides for the talk are embedded below, with the speaker notes acting as my script. You can navigate the slides by clicking the down arrow each time it's shown, then clicking the right arrow when you reach the bottom.
-
-<figure>
-  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='//slides.com/limeblast/bringing-the-future-into-the-present/embed' width='576' height='420' scrolling='no' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
-</figure>
+[The slides for the talk are available here](https://slides.com/limeblast/bringing-the-future-into-the-present), with the speaker notes acting as my script. You can navigate the slides by clicking the down arrow each time it's shown, then clicking the right arrow when you reach the bottom.
 
 I hope you enjoy the presentation, even if you didn't get to see my present it live. If you're interested, [you can read the post that inspired the talk here](/2019/01/15/my-goals-are-in-sight/).
