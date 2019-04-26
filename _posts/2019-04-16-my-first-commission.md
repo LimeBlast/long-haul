@@ -63,9 +63,11 @@ All that remained was to glue everything together, making sure the joints held t
 
 Mind you, depending on the application of a project, it may be preferable to hide all fasteners of this nature - but as this is just a functional tool, and the first time I've ever built something of this nature, I'm sure I'll be forgiven some visible brads.
 
-## Still to do
+## ~~Still to do~~
 
-Just about the only thing currently missing from the build is the tension rod which goes into the slot. I have a suitable piece of wood for this, and Emma is going to bring some bolts, washers, and wing nuts with her, so a quick hole in the end of the wood to accept the head of the bolt, affixed with some gorilla glue, should work nicely.
+~~Just about the only thing currently missing from the build is the tension rod which goes into the slot. I have a suitable piece of wood for this, and Emma is going to bring some bolts, washers, and wing nuts with her, so a quick hole in the end of the wood to accept the head of the bolt, affixed with some gorilla glue, should work nicely.~~
+
+<ins>See [update](#update) below.</ins>
 
 ## Conclusion
 
@@ -78,3 +80,29 @@ That's right, she's never used an inkle loom before - so I'm not sure if her lea
 In any case, I plan on practicing the techniques learned during the built, taking her feedback into account, and making a second, far nicer one, at some point within the next year or so.
 
 In the meantime, Emma has promised some photos of the loom in action, so while we wait for them, I'm going to enjoy drinking the craft ale she's promised me ;) 
+
+## Update
+
+Emma has been and gone, collecting the loom and leaving me with a box of nuts and bolts, with which I have since completed the tension rod.
+
+I drilled a hole in the end of my dowel using a forstner bit, and using masking tape as a makeshift clamp, glued the bolt into position with some Gorilla glue. 24 hours later, upon the removal of the masking tape, I found what looked like a cheerio where the glue had expanded.
+
+{% figure [caption:"Looks good enough to eat"] %}
+  ![](/assets/img/2019/04/IMG_20190420_094006(1).jpg) 
+{% endfigure %}
+
+My Dremel made short work of this expansion, but this left a cavity around the base of the bolt, which I wasn't entirely confident would be strong enough. To resolve this issue I decided to use some epoxy resin to fill the cavity and seal off the end with one of the washers.
+
+I'd not used epoxy before, so was quite taken aback by the smell, but 60 seconds of stirring the two parts together, followed by another 60-odd seconds of gingerly trying to dribble resin into the cavity before sliding the washer down the bolt, resulted in something that didn't look half bad.
+
+{% figure [caption:"Another solid seven out of ten"] %}
+  ![](/assets/img/2019/04/IMG_20190426_195207(1).jpg) 
+{% endfigure %}
+
+Although I've been unable to test this, it should be possible to simply slide the bolt though the slot, and use another washer in conjunction with a wing nut to tighten it into position.
+
+So while she waits for this final component to arrive in the mail, I'll be sure and enjoy my reward:
+
+{% figure [caption:"Who am I kidding, I've already drunk them all"] %}
+  ![](/assets/img/2019/04/IMG_20190417_212423(3).jpg) 
+{% endfigure %}
